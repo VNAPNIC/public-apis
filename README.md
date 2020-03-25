@@ -1,7 +1,5 @@
 A collective list of free APIs for use in software and web development.
 
-A public API for this project can be found [here](https://github.com/davemachado/public-api)!
-
 Please note a passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment.
 
 ## Index
