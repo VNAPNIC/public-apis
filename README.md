@@ -1039,6 +1039,7 @@ Please note a passing build status indicates all listed APIs are available since
 | [Utelly](https://market.mashape.com/utelly/utelly)                                                 | Check where a tv show or movie is available                                                         | `X-Mashape-Key` | Yes   | Unknown |
 | [Vimeo](https://developer.vimeo.com/)                                                              | Vimeo Developer API                                                                                 | `OAuth`         | Yes   | Unknown |
 | [YouTube](https://developers.google.com/youtube/)                                                  | Add YouTube functionality to your sites and apps                                                    | `OAuth`         | Yes   | Unknown |
+| [f4nsix](https://www.f4nsix.xyz/api/)                                                              | Get youtube video download data                                                                      | No         | Yes   | Yes |
 
 **[⬆ Back to Index](#index)**
 
