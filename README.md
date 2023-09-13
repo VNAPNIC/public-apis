@@ -254,6 +254,7 @@ Please note a passing build status indicates all listed APIs are available since
 | [US Extract](https://smartystreets.com/products/apis/us-extract-api)        | Extract postal addresses from any text including emails               | `apiKey` | Yes   | Yes     |
 | [US Street Address](https://smartystreets.com/docs/cloud/us-street-api)     | Validate and append data for any US postal address                    | `apiKey` | Yes   | Yes     |
 | [vatlayer](https://vatlayer.com)                                            | VAT number validation                                                 | No       | Yes   | Unknown |
+| [BigDataCloud Phone & Email Verification ](https://www.bigdatacloud.com/phone-email-verification)              | Validate email addresses and phone numbers | `apiKey` | Yes   | Yes     |
 
 **[⬆ Back to Index](#index)**
 
@@ -475,7 +476,8 @@ Please note a passing build status indicates all listed APIs are available since
 | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------- | ----- | ------- |
 | [adresse.data.gouv.fr](https://adresse.data.gouv.fr)                                                                   | Address database of France, geocoding and reverse                                                   | No       | Yes   | Unknown |
 | [Battuta](http://battuta.medunes.net)                                                                                  | A (country/region/city) in-cascade location API                                                     | `apiKey` | No    | Unknown |
-| [BigDataCloud](https://www.bigdatacloud.com/ip-geolocation-apis)                                                       | Provides fast and accurate IP geolocation APIs along with security checks and confidence area       | `apiKey` | Yes   | Unknown |
+| [BigDataCloud IP geolocation](https://www.bigdatacloud.com/ip-geolocation)                                             | Provides fast and accurate IP geolocation APIs along with security checks and confidence area       | `apiKey` | Yes   | Yes |
+| [BigDataCloud Reverse Geocoding](https://www.bigdatacloud.com/reverse-geocoding)                                       | Provides fast and accurate Reverse geocoding APIs with rich locality data      | `apiKey` | Yes   | Yes |
 | [Bing Maps](https://www.microsoft.com/maps/)                                                                           | Create/customize digital maps based on Bing Maps data                                               | `apiKey` | Yes   | Unknown |
 | [bng2latlong](https://www.getthedata.com/bng2latlong)                                                                  | Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude | No       | Yes   | Yes     |
 | [CitySDK](http://www.citysdk.eu/citysdk-toolkit/)                                                                      | Open APIs for select European cities                                                                | No       | Yes   | Unknown |
