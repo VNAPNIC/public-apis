@@ -160,6 +160,7 @@ Please note a passing build status indicates all listed APIs are available since
 | [Namedays Calendar](https://api.abalin.net/)                           | Provides namedays for multiple countries                                   | No       | Yes   | Yes     |
 | [Non-Working Days](https://github.com/gadael/icsdb)                    | Database of ICS files for non working days                                 | No       | Yes   | Unknown |
 | [Russian Calendar](https://github.com/egno/work-calendar)              | Check if a date is a Russian holiday or not                                | No       | Yes   | No      |
+| [Generate iCAL Invite ](https://apyhub.com/utility/generator-ical) | Generates iCal calendar events that can be used across calendar applications | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
@@ -243,6 +244,7 @@ Please note a passing build status indicates all listed APIs are available since
 
 | API                                                                         | Description                                                           | Auth     | HTTPS | CORS    |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------- | ----- | ------- |
+| [ApyHub Data Validation APIs](https://apyhub.com/catalog/data-validation)   |  Validate email addresses, BIC and IBAN codes, academic emails, IFSC codes, Indian postcodes, EU VAT, UK postcodes | `apiKey` | Yes | Yes |
 | [Cloudmersive Validate](https://cloudmersive.com/validate-api)              | Validate email addresses, phone numbers, VAT numbers and domain names | `apiKey` | Yes   | Yes     |
 | [languagelayer](https://languagelayer.com)                                  | Language detection                                                    | No       | Yes   | Unknown |
 | [Lob.com](https://lob.com/)                                                 | US Address Verification                                               | `apiKey` | Yes   | Unknown |
@@ -255,6 +257,7 @@ Please note a passing build status indicates all listed APIs are available since
 | [US Street Address](https://smartystreets.com/docs/cloud/us-street-api)     | Validate and append data for any US postal address                    | `apiKey` | Yes   | Yes     |
 | [vatlayer](https://vatlayer.com)                                            | VAT number validation                                                 | No       | Yes   | Unknown |
 | [BigDataCloud Phone & Email Verification ](https://www.bigdatacloud.com/phone-email-verification)              | Validate email addresses and phone numbers | `apiKey` | Yes   | Yes     |
+| [ApyHub Data Validation APIs](https://apyhub.com/catalog/data-validation) |  Validate email addresses, BIC and IBAN codes, academic emails, IFSC codes, Indian postcodes, EU VAT, UK postcodes | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
@@ -267,7 +270,8 @@ Please note a passing build status indicates all listed APIs are available since
 | [ApiFlash](https://apiflash.com/)                                                                   | Chrome based screenshot API for developers                                                          | `apiKey`        | Yes   | Unknown |
 | [Apility.io](https://apility.io/apidocs/)                                                           | IP, Domains and Emails anti-abuse API blocklist                                                     | No              | Yes   | Yes     |
 | [APIs.guru](https://apis.guru/api-doc/)                                                             | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs                                       | No              | Yes   | Unknown |
-| [BetterMeta](http://bettermeta.io)                                                                  | Return a site's meta tags in JSON format                                                            | `X-Mashape-Key` | Yes   | Unknown |
+| [ApyHub](https://apyhub.com)                                                                        | 100+ Simplified APIs includes AI, file conversion, data Validation, data Maninuplations etc         | `apiKey `       | Yes   | Yes     |
+[BetterMeta](http://bettermeta.io)                                                                    | Return a site's meta tags in JSON format                                                            | `X-Mashape-Key` | Yes   | Unknown |
 | [Bitbucket](https://api.bitbucket.org/2.0/users/karllhughes)                                        | Pull public information for a Bitbucket account                                                     | No              | Yes   | Unknown |
 | [Bored](https://www.boredapi.com/)                                                                  | Find random activities to fight boredom                                                             | No              | Yes   | Unknown |
 | [Browshot](https://browshot.com/api/documentation)                                                  | Easily make screenshots of web pages in any screen size, as any device                              | `apiKey`        | Yes   | Unknown |
