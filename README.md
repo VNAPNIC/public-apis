@@ -62,8 +62,6 @@ Please note a passing build status indicates all listed APIs are available since
 | [IUCN](http://apiv3.iucnredlist.org/api/v3/docs)                                           | IUCN Red List of Threatened Species         | `apiKey` | No    | Unknown |
 | [Movebank](https://github.com/movebank/movebank-api-doc)                                   | Movement and Migration data of animals      | No       | Yes   | Unknown |
 | [Petfinder](https://www.petfinder.com/developers/v2/docs/)                                 | Adoption                                    | `OAuth`  | Yes   | Yes     |
-| [PlaceGOAT](https://placegoat.com/)                                                        | Placeholder goat images                     | No       | Yes   | Unknown |
-| [RandomCat](https://aws.random.cat/meow)                                                   | Random pictures of cats                     | No       | Yes   | Yes     |
 | [RandomDog](https://random.dog/woof.json)                                                  | Random pictures of dogs                     | No       | Yes   | Yes     |
 | [RandomFox](https://randomfox.ca/floof/)                                                   | Random pictures of foxes                    | No       | Yes   | No      |
 | [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoption                                    | No       | Yes   | Unknown |
