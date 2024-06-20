@@ -848,6 +848,7 @@ Please note a passing build status indicates all listed APIs are available since
 | [PWRTelegram bot](https://pwrtelegram.xyz)                             | Boosted version of the Telegram bot API                                                           | `apiKey` | Yes   | Unknown |
 | [Reddit](https://www.reddit.com/dev/api)                               | Homepage of the internet                                                                          | `OAuth`  | Yes   | Unknown |
 | [SharedCount](http://docs.sharedcount.com/)                            | Social media like and share data for any URL                                                      | `apiKey` | Yes   | Unknown |
+| [SocialData API](https://socialdata.tools)                             | Read Twitter data                                                                                 | `apiKey` | Yes   | No      |
 | [Slack](https://api.slack.com/)                                        | Team Instant Messaging                                                                            | `OAuth`  | Yes   | Unknown |
 | [Telegram Bot](https://core.telegram.org/bots/api)                     | Simplified HTTP version of the MTProto API for bots                                               | `apiKey` | Yes   | Unknown |
 | [Telegram MTProto](https://core.telegram.org/api#getting-started)      | Read and write Telegram data                                                                      | `OAuth`  | Yes   | Unknown |
